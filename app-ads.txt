@@ -1,5 +1,7 @@
 google.com, pub-8619423547064483, DIRECT, f08c47fec0942fa0
 
+applovin.com, 18266d53cc215aec4604e1d3f912baf6, DIRECT
+
 ironsrc.com, [yourironSourcePublisherAccountID], Direct
 Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
 
