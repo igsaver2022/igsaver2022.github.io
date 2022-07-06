@@ -1,5 +1,7 @@
 google.com, pub-8619423547064483, DIRECT, f08c47fec0942fa0
 
+facebook.com, 1170703547040503, RESELLER, c3e20eee3f780d68
+
 applovin.com, 18266d53cc215aec4604e1d3f912baf6, DIRECT
 
 ironsrc.com, [yourironSourcePublisherAccountID], Direct
